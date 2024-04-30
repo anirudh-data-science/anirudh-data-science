@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anirudh-data-science
+- 👋 Hi, I’m Anirudh Sharma
 - 👀 I’m interested in data science and analytics
 - 🌱 I’m currently learning GenAI
 - 💞️ I’m looking to collaborate on any data science topics
