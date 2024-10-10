@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anirudh Sharma
 - 👀 I’m interested in data science and analytics
-- 💞️ I’m looking to collaborate on any data science topics
+- 💞️ This is my portfolio for data science projects
 - 📫 How to reach me, email: anirudhs9411@gmail.com
 - 😄 Pronouns: He/Him
 
